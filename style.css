@@ -1,0 +1,20 @@
+h1
+    {
+        color:mistyrose;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+    }
+
+body
+    {
+        background-color:plum;
+    }
+
+ a
+    {
+        text-decoration:none;
+        font-family:monospace;
+        font-size:larger;
+        color:aliceblue;
+        padding:50px;
+        padding-right:10px;
+    }
